@@ -7,7 +7,7 @@ import os
 
 path = __file__.split("/")
 path = path[:len(path) - 1]
-path.append("voidx")
+path.append("t4n")
 dr = "/".join(path)
 
 files = os.listdir(dr)

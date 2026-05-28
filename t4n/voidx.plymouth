@@ -1,12 +1,12 @@
 [Plymouth Theme]
-Name=VoidX
-Description=voidlinx theme using the ACPI BGRT graphics as background
+Name=T4n
+Description=T4n OS theme using the ACPI BGRT graphics as background
 ModuleName=two-step
 
 [two-step]
 Font=Inter 12
 TitleFont=Inter Bold 32
-ImageDir=/usr/share/plymouth/themes/voidx
+ImageDir=/usr/share/plymouth/themes/t4n
 DialogHorizontalAlignment=.5
 DialogVerticalAlignment=.5
 TitleHorizontalAlignment=.5
